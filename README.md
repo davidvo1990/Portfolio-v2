@@ -1,5 +1,5 @@
 # Portfolio
-Deploy Link: https://davidvo1990.github.io/Portfolio/
+Deploy Link: https://davidvo1990.github.io/Portfolio-v2/
 
 ### Overview
 
